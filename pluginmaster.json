@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "车辆调校",
+    "InternalName": "nte.vehicletune",
+    "Version": "5.8.7",
+    "Author": "雪不语 与 超级可爱的小助手芸汐",
+    "Punchline": "游戏内实时调校载具：车漆/胎烟/胎痕/涂装切换、漂移轮换、底盘参数滑块、配件预设。",
+    "Description": "在游戏内实时调校载具：① 车型配件切换（车漆 / 胎烟 / 胎痕 / 涂装），点选即时生效；② 漂移轮换——每甩一次尾自动换下一个胎烟与胎痕，正常行车不切换、不打断换挡；③ 底盘参数滑块（极速、扭矩、转速、齿比、抓地、弹簧阻尼等）；④ 配件预设保存与套用，预设存于 Anomaly\\state\\plugins，重进游戏与插件更新都不丢。仅修改本机载具数据，不影响他人。",
+    "Games": [
+      "nte"
+    ],
+    "ApiMajor": 1,
+    "Tags": [
+      "vehicle",
+      "tuning",
+      "ui",
+      "utility"
+    ],
+    "RepoUrl": "https://github.com/ftsgyyds/anomaly-nte-vehicletune",
+    "DownloadLinkInstall": "https://github.com/ftsgyyds/anomaly-nte-vehicletune/releases/download/v5.8.7/nte.vehicletune-5.8.7.zip",
+    "DownloadLinkUpdate": "https://github.com/ftsgyyds/anomaly-nte-vehicletune/releases/download/v5.8.7/nte.vehicletune-5.8.7.zip",
+    "AcceptsFeedback": true
+  }
+]
